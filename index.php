@@ -52,7 +52,9 @@
   <a href="#team" class="w3-bar-item w3-button w3-hide-small w3-hover-blue">Team</a>
   <a href="#work" class="w3-bar-item w3-button w3-hide-small w3-hover-blue">Work</a>
   <a href="#contact" class="w3-bar-item w3-button w3-hide-small w3-hover-blue">Contact</a>
-  <a href="assets/pages/survey.html" class="w3-bar-item w3-button w3-hide-small w3-hover-blue">Survey</a>
+  <a href="assets/pages/survey.php" class="w3-bar-item w3-button w3-hide-small w3-hover-blue">Survey</a>
+  <a href="assets/pages/login.php" class="w3-bar-item w3-button w3-hide-small w3-hover-blue">Login</a>
+  <a href="assets/pages/signup.php" class="w3-bar-item w3-button w3-hide-small w3-hover-blue">Sign Up</a>
     <div class="w3-dropdown-hover w3-hide-small">
    <!-- <button class="w3-button" title="Notifications"><i class="fa fa-caret-down"></i></button>     
     <div class="w3-dropdown-content w3-card-4 w3-bar-block">

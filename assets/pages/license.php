@@ -60,7 +60,7 @@
                 </div>
         </div>
         <div class="footer p-3 mb-2 bg-warning text-white">
-                <a href="../../index.html"><button type="button" class="text-white btn btn-warning btn-lg btn-block">Back to Landing Page</button></a>
+                <a href="../../index.php"><button type="button" class="text-white btn btn-warning btn-lg btn-block">Back to Landing Page</button></a>
         </div>
     </body>
 </html>

@@ -17,7 +17,7 @@
         </style>
     </head>
     <body>
-            <a href="../../index.html"><button type="button" class="text-black btn btn-warning btn-lg btn-block">Back to Landing Page</button></a>
+            <a href="../../index.php"><button type="button" class="text-black btn btn-warning btn-lg btn-block">Back to Landing Page</button></a>
         <div align="center">
         <div class="shadow-lg p-3 mb-5 bg-black rounded">
         <script>(function(t,e,s,n){var o,a,c;t.SMCX=t.SMCX||[],e.getElementById(n)||(o=e.getElementsByTagName(s),a=o[o.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=n,c.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd3oXHjUBlVp7D4qeVruk7wjBk71izNer90KseKjweNoR.js"].join(""),a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");</script><a style="font: 12px Helvetica, sans-serif; color: #999; text-decoration: none;" href=https://www.surveymonkey.com></a>
